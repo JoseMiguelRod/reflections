@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I have that add files to my repository.
+Because is better to choose the files will be into the repository.
+
+How is the staging area different from the working directory and the repository?
+Is different because, working directory is the directory of my computer, repository is the directory on the cloud and the staging area is the conector between repository and working directory.
+
+What value do you think it offers?
+Possibility of to have all more organised.
+
