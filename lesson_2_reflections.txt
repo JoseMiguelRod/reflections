@@ -9,3 +9,5 @@ Is different because, working directory is the directory of my computer, reposit
 What value do you think it offers?
 Possibility of to have all more organised.
 
+How do the diagrams help you visualize the branch structure?
+Drawing and following the flow in them.
