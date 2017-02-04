@@ -11,3 +11,5 @@ Possibility of to have all more organised.
 
 How do the diagrams help you visualize the branch structure?
 Drawing and following the flow in them.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
